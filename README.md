@@ -19,3 +19,12 @@ Key reasons it's important:
 1. **Prevents Miscommunication**: Ensures all stakeholders agree on what the system should do.
 2. **Reduces Development Costs**: Fixing errors in requirements is cheaper than fixing coded features.
 3. **Guides Development**: Provides clear specifications for designers and programmers to follow.
+
+
+## Key Activities in Requirement Analysis
+
+- **Requirement Gathering**: Collecting needs from stakeholders through interviews, surveys, or workshops.
+- **Requirement Elicitation**: Extracting hidden or unstated needs through observation and prototyping.
+- **Requirement Documentation**: Recording requirements in clear, structured formats (e.g., SRS documents).
+- **Requirement Analysis and Modeling**: Organizing requirements using diagrams (e.g., use cases, flowcharts).
+- **Requirement Validation**: Checking requirements for completeness, consistency, and testability.
