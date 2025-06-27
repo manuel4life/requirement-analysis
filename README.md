@@ -28,3 +28,18 @@ Key reasons it's important:
 - **Requirement Documentation**: Recording requirements in clear, structured formats (e.g., SRS documents).
 - **Requirement Analysis and Modeling**: Organizing requirements using diagrams (e.g., use cases, flowcharts).
 - **Requirement Validation**: Checking requirements for completeness, consistency, and testability.
+
+
+## Types of Requirements
+
+### Functional Requirements
+What the system must do:
+- Users can book, modify, and cancel reservations
+- Admins can view all bookings in the system
+- The system sends confirmation emails
+
+### Non-functional Requirements
+How the system performs:
+- The system loads search results in under 2 seconds
+- User data is encrypted using AES-256
+- The system handles 1000 concurrent users
