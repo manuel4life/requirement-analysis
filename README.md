@@ -12,3 +12,10 @@ Key reasons it's important:
 - Reduces costly changes later in development
 - Provides clear guidelines for designers and programmers
 - Helps create accurate timelines and budgets
+
+
+## Why is Requirement Analysis Important?
+
+1. **Prevents Miscommunication**: Ensures all stakeholders agree on what the system should do.
+2. **Reduces Development Costs**: Fixing errors in requirements is cheaper than fixing coded features.
+3. **Guides Development**: Provides clear specifications for designers and programmers to follow.
