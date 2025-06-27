@@ -46,3 +46,13 @@ How the system performs:
 
 
 ![Booking System Use Case Diagram](alx-booking-uc.png)  
+
+
+## Acceptance Criteria
+
+Acceptance criteria define the conditions a feature must meet to be accepted by stakeholders. They provide clear, testable requirements to ensure development aligns with business needs.
+
+**Example for Checkout Feature**:
+1. The system must calculate and display the total price including taxes.
+2. Users must receive an email confirmation after successful payment.
+3. Payment failures must show an error message within 2 seconds.
