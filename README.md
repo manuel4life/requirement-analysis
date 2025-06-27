@@ -43,3 +43,6 @@ How the system performs:
 - The system loads search results in under 2 seconds
 - User data is encrypted using AES-256
 - The system handles 1000 concurrent users
+
+
+![Booking System Use Case Diagram](alx-booking-uc.png)  
